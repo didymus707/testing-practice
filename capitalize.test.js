@@ -1,5 +1,5 @@
 import capitalize from './capitalize';
 
-test('Capitalize all strings', () => {
+it('Capitalizes all strings', () => {
   expect(capitalize('come')).toBe('Come');
-})
+});
