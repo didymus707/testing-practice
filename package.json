@@ -1,0 +1,29 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Practicing testing with jest. This is from the exercise practice from the Odin's Project Testing Section in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didymus707/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "Didymus & Javier Botero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didymus707/testing-practice/issues"
+  },
+  "homepage": "https://github.com/didymus707/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.7",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^26.6.3"
+  }
+}
