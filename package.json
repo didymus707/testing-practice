@@ -1,0 +1,20 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "Practicing testing with jest. This is from the exercise practice from the Odin's Project Testing Section in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didymus707/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "Didymus & Javier Botero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didymus707/testing-practice/issues"
+  },
+  "homepage": "https://github.com/didymus707/testing-practice#readme"
+}
